@@ -1,0 +1,13 @@
+from math import *
+print(2+3.4)
+print(55.55)
+print(-4.666)
+print((3 / 4 - 2) * 66 )
+print(abs(-6))
+print(abs(-6.2))
+print(pow(2, 7))
+print(round(4.2))
+print(ceil(4.2))
+print(sqrt(4.2))
+print(sqrt(pi))
+print(pi)
